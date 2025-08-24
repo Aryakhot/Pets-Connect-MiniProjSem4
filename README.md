@@ -1,4 +1,4 @@
-# MiniProjSem4
+# Pets Connect
 Pets day-care website- The primary purpose of this website is to find and book for pet day-care services, also
 allowing pet parent to access real time communication with those providing day-care services. Utilizing the powerful
 open-source API Leaflet, users can easily discover the nearest pet day-care facilities tailored to their preferences.
